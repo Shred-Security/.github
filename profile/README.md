@@ -15,14 +15,6 @@ Shred Security provides high quality security audits for blockchain and DeFi pro
 
 Solidity, Rust(Solana, Soroban etc), Go, Clarity, Python, Move(Sui Aptos), Vyper
 
-## Our Track Record
-
--  Multiple Top-3, Top-10 places in public competitions
--  Multiple solo findings that other researchers missed
--  Multiple bug bounties in Immunefi and private engagements
--  Trusted by leading blockchain protocols and DAOs across multiple chains
-
-* * *
 ## Check our full portfolio 
 [here](https://github.com/ShredSecurity/audits/blob/main/README.md#audit-competition-results)
 
@@ -32,14 +24,3 @@ If you're serious about the security of your protocol and want your code audited
 
 **Primary Contact:** https://t.me/shredsecurity
 
-**Alternative Contacts:**
-
-- [Twitter](https://x.com/ShredSecurity)
-- [Website](https://shredsec.xyz/)
-
-****
-
-#### Referral Program: Get 10% of the total audit cost on referring Shred Security to projects.
-How it Works:
-1. Introduce us to a project that needs a security review via our contacts above.
-2. Get your 10% percent of the total audit cost after our delivery/payments from the protocol team. 
