@@ -13,7 +13,7 @@ Shred Security provides high quality security audits for blockchain and DeFi pro
 Solidity, Rust(Solana, Soroban etc), Go, Clarity, Python, Move(Sui Aptos), Vyper
 
 ### Portfolio 
-[here](https://github.com/ShredSecurity/audits/blob/main/README.md#audit-competition-results)
+[Link](https://github.com/ShredSecurity/audits/blob/main/README.md#audit-competition-results)
 
 ### Work With Us
 
