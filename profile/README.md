@@ -13,7 +13,7 @@ Our audits consistently uncover high-impact vulnerabilities missed by others, ba
 
 Solidity, Rust(Solana, Soroban etc), Go, Clarity, Python, Move(Sui Aptos), Vyper
 
-### Portfolio 
+### Highlighted Audits 
 [Link](https://github.com/ShredSecurity/audits/blob/main/README.md#audit-competition-results)
 
 ### Work With Us
