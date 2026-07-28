@@ -1,9 +1,5 @@
 # .github
 
-<p align="center">
-  <img src="./assets/gh-header.png" alt="Shred">
-</p>
-
 # Shred Security
 Book an audit via [Telegram DM](https://t.me/shredsecurity) or learn more at [shredsec.xyz](https://shredsec.xyz)
 
