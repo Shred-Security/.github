@@ -1,4 +1,6 @@
-# Shred Security
+<p align="center">
+  <img src="./assets/gh-header.png" alt="Shred">
+</p>
 
 Shred Security is a research-driven security firm specializing in smart contract auditing, threat modeling, and blockchain security.
 Our audits consistently uncover high-impact vulnerabilities missed by others, backed by a proven track record of top public competition placements and bounty hunting, security partnerships with leading protocols.
