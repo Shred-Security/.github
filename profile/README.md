@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/gh-header.png" alt="HackViz">
+</p>
+
 # Shred Security
 
 Shred Security is a research-driven security firm specializing in smart contract auditing, threat modeling, and blockchain security.
