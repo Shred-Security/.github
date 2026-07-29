@@ -20,6 +20,5 @@ Solidity, Rust(Solana, Soroban etc), Go, Clarity, Python, Move(Sui Aptos), Vyper
 
 ### Work With Us
 
-If you're serious about the security of your protocol and want your code audited by publicly proven researchers, reach out:
-https://t.me/kenzowhitehat
+If you're serious about the security of your protocol and want your code audited by publicly proven researchers, reach out to us on [Telegram](https://t.me/kenzowhitehat)
 
